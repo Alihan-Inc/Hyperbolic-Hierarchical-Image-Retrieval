@@ -1,6 +1,6 @@
 # Hyperbolic-Hierarchical-Image-Retrieval
 
-This project builds on the Hierarchical Average Precision Training for Pertinent Image Retrieval method, as described in the ECCV 2022 paper by Elias Ramzi, Nicolas Audebert, Nicolas Thome, Clément Rambour, and Xavier Bitot [1]. Additionally, data was used from the work of Hyun Oh Song, Yu Xiang, Stefanie Jegelka, and Silvio Savarese, as described in their CVPR 2016 paper [2]. During the project, the exponential mapping of Euclidean vectors onto a hyperbolic Poincaré ball was implemented using the Hyperbolic Learning Python Library (HypLL) introduced by van Spengler et al. [3].
+This project builds on the Hierarchical Average Precision Training for Pertinent Image Retrieval method, as described in the ECCV 2022 paper by Elias Ramzi, Nicolas Audebert, Nicolas Thome, Clément Rambour, and Xavier Bitot [1]. Additionally, data was used from the work of Hyun Oh Song, Yu Xiang, Stefanie Jegelka, and Silvio Savarese, as described in their CVPR 2016 paper [2]. During the project, the Hyperbolic Learning Python Library (HypLL) introduced by van Spengler et al. [3] was used.
 
 **References:**
 
